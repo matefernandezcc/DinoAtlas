@@ -1,3 +1,4 @@
+// Datos de dinosaurios con sus ubicaciones
 const dinosaurs = [
   {
     id: 1,
@@ -79,4 +80,4 @@ const dinosaurs = [
     region: "América del Norte",
     info: "Vivió durante el Jurásico tardío, hace unos 155-145 millones de años. Era uno de los principales depredadores de su época."
   }
-];
+]; 
